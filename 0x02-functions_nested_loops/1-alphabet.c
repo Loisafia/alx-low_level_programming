@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_alphabts - Make the alphabet
+ * print_alphabet - Make the alphabet
  * Return: void
  */
 
@@ -15,4 +15,3 @@ void print_alphabe(void)
 	}
 	_putchar('\n');
 }
-
