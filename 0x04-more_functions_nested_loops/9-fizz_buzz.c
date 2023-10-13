@@ -3,7 +3,7 @@
 
 /**
  * main - Entry Point
- * Description - A program that prints numbers from 1 to 10, followed by a new line, print Fizz for multiplies of 3, Buzz for multiples of 5 and FizzBuzz for multiples of both numbers
+ * Description - A program that prints Fizz, Buzz and FizzBuzz
  * Return: Always return 0 (Success)
  */
 
@@ -33,4 +33,4 @@ int main(void)
 	printf("\n");
 
 	return (0);
-}	
+}
