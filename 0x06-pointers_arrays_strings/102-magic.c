@@ -1,4 +1,9 @@
 #include <stdio.h>
+/**
+ * main - Entry point
+ *Description: This program adds one line to an already existing code.
+ *Return: Always return 0 (Success)
+ */
 
 int main(void)
 {
